@@ -64,7 +64,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 
-<p><img align="center" src="https://github-readme-deploy-git-main-rtlabs.vercel.app/api?username=mort666&show_icons=true&locale=en&count_private=true&card_width=720&custom_title=Damage Done" alt="mort666" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mort666" alt="mort666" /></a></p>
+<p><img align="center" src="https://github-readme-deploy-git-main-rtlabs.vercel.app/api?username=mort666&show_icons=true&locale=en&count_private=true&card_width=1920px&custom_title=Damage Done" alt="mort666" /></p>
 
 ![Metrics](/github-metrics.svg)
